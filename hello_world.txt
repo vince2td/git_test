@@ -1,1 +1,2 @@
-This si a git lesson.
+This is a git lesson.
+Further edits to "hello_world.txt".
